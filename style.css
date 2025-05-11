@@ -9,14 +9,13 @@ color: white;
   font-family: 'Courier New';
   color: white;
 }
-body{
+body {
   background-color: darkslategray;
   display: flex;
   text-align: center;
 }
-img{ 
+img { 
   border: solid 2px white;
-  margin: 0 0 0 20px ;
 }
 h2{
   text-align: center;
