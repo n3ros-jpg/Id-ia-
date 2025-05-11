@@ -10,16 +10,17 @@ color: white;
   color: white;
 }
 body{
-  background-color: #D33434B8;
+  background-color: darkslategray;
+  display: flex;
+  text-align: center;
 }
 img{ 
   border: solid 2px white;
-  text-align: center;
   margin: 0 0 0 20px ;
 }
 .familia img{
   margin: 0 0 0 100px;
 }
-.mom h2{
+h2{
   text-align: center;
 }
